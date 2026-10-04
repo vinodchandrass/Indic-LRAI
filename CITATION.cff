@@ -1,6 +1,21 @@
-cff-version: 1.2.0
-message: "If you use these materials, please cite the associated article and repository."
+﻿cff-version: 1.2.0
+message: "If you use these materials, please cite this repository and the associated article."
 title: "Resource-Conditioned Epistemic Access in Large Language Models for Under-Resourced Indian Languages"
 type: dataset
+authors:
+  - family-names: "S. S."
+    given-names: "Vinod Chandra"
+    email: "vinod@keralauniversity.ac.in"
+    affiliation: "University of Kerala"
 version: 1.0.0
-date-released: 2026-10-04
+date-released: "2026-10-04"
+repository-code: "https://github.com/vinodchandrass/Indic-LRAI"
+url: "https://github.com/vinodchandrass/Indic-LRAI"
+keywords:
+  - "low-resource languages"
+  - "Indian languages"
+  - "large language models"
+  - "LRAI6"
+  - "SCSI"
+  - "multilingual NLP"
+  - "epistemic access"
