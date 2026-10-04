@@ -1,0 +1,226 @@
+﻿scenario,code,language,score,rank,weight_sum
+equal_weight,SAN,Sanskrit,0.7200303474818113,1,6
+equal_weight,SAT,Santali,0.3623686389982262,7,6
+equal_weight,BOD,Bodo,0.2587284024408792,8,6
+equal_weight,DOI,Dogri,0.14545693012836217,9,6
+equal_weight,KON,Konkani,0.41228957969377283,5,6
+equal_weight,KAS,Kashmiri,0.3972728651424304,6,6
+equal_weight,MAI,Maithili,0.7032035683673493,2,6
+equal_weight,MNI,Meitei (Manipuri),0.6404935619645794,3,6
+equal_weight,SND,Sindhi,0.4867298081895001,4,6
+digital_weight_0x,SAN,Sanskrit,0.6754703136089092,1,5.0
+digital_weight_0x,SAT,Santali,0.2414991860803828,8,5.0
+digital_weight_0x,BOD,Bodo,0.31047408292905504,6,5.0
+digital_weight_0x,DOI,Dogri,0.1745483161540346,9,5.0
+digital_weight_0x,KON,Konkani,0.33088188248590333,5,5.0
+digital_weight_0x,KAS,Kashmiri,0.2896965382604868,7,5.0
+digital_weight_0x,MAI,Maithili,0.6525802664992446,2,5.0
+digital_weight_0x,MNI,Meitei (Manipuri),0.5834915674341072,3,5.0
+digital_weight_0x,SND,Sindhi,0.3840757698274001,4,5.0
+digital_weight_0.75x,SAN,Sanskrit,0.7103433835963978,1,5.75
+digital_weight_0.75x,SAT,Santali,0.3360926709726081,7,5.75
+digital_weight_0.75x,BOD,Bodo,0.2699774634165696,8,5.75
+digital_weight_0.75x,DOI,Dogri,0.15178114448176921,9,5.75
+digital_weight_0.75x,KON,Konkani,0.39459225421380123,5,5.75
+digital_weight_0.75x,KAS,Kashmiri,0.3738867071246165,6,5.75
+digital_weight_0.75x,MAI,Maithili,0.6921985027438483,2,5.75
+digital_weight_0.75x,MNI,Meitei (Manipuri),0.6281018240231725,3,5.75
+digital_weight_0.75x,SND,Sindhi,0.4644137128933914,4,5.75
+digital_weight_1.25x,SAN,Sanskrit,0.7289423542563916,1,6.25
+digital_weight_1.25x,SAT,Santali,0.38654252958179497,7,6.25
+digital_weight_1.25x,BOD,Bodo,0.24837926634324403,8,6.25
+digital_weight_1.25x,DOI,Dogri,0.1396386529232277,9,6.25
+digital_weight_1.25x,KON,Konkani,0.42857111913534673,5,6.25
+digital_weight_1.25x,KAS,Kashmiri,0.41878813051881913,6,6.25
+digital_weight_1.25x,MAI,Maithili,0.7133282287409703,2,6.25
+digital_weight_1.25x,MNI,Meitei (Manipuri),0.651893960870674,3,6.25
+digital_weight_1.25x,SND,Sindhi,0.5072606158619201,4,6.25
+digital_weight_2x,SAN,Sanskrit,0.7518589431053128,1,7.0
+digital_weight_2x,SAT,Santali,0.44870396251097155,7,7.0
+digital_weight_2x,BOD,Bodo,0.22176720209218218,8,7.0
+digital_weight_2x,DOI,Dogri,0.1246773686814533,9,7.0
+digital_weight_2x,KON,Konkani,0.47043793484225105,6,7.0
+digital_weight_2x,KAS,Kashmiri,0.47411309862953294,5,7.0
+digital_weight_2x,MAI,Maithili,0.7393630697017098,2,7.0
+digital_weight_2x,MNI,Meitei (Manipuri),0.6812092723434882,3,7.0
+digital_weight_2x,SND,Sindhi,0.5600541213052858,4,7.0
+monolingual_weight_0x,SAN,Sanskrit,0.6662108295164386,3,5.0
+monolingual_weight_0x,SAT,Santali,0.3822970193806956,7,5.0
+monolingual_weight_0x,BOD,Bodo,0.26859684389185134,8,5.0
+monolingual_weight_0x,DOI,Dogri,0.1745483161540346,9,5.0
+monolingual_weight_0x,KON,Konkani,0.4439075721014703,5,5.0
+monolingual_weight_0x,KAS,Kashmiri,0.45224766511181935,4,5.0
+monolingual_weight_0x,MAI,Maithili,0.8144923519439071,1,5.0
+monolingual_weight_0x,MNI,Meitei (Manipuri),0.7504943660427517,2,5.0
+monolingual_weight_0x,SND,Sindhi,0.3840757698274001,6,5.0
+monolingual_weight_0.75x,SAN,Sanskrit,0.7083304522719477,2,5.75
+monolingual_weight_0.75x,SAT,Santali,0.36670089560311087,7,5.75
+monolingual_weight_0.75x,BOD,Bodo,0.2608737157997862,8,5.75
+monolingual_weight_0.75x,DOI,Dogri,0.15178114448176921,9,5.75
+monolingual_weight_0.75x,KON,Konkani,0.41916305630414186,5,5.75
+monolingual_weight_0.75x,KAS,Kashmiri,0.4092239086140367,6,5.75
+monolingual_weight_0.75x,MAI,Maithili,0.7273967821883403,1,5.75
+monolingual_weight_0.75x,MNI,Meitei (Manipuri),0.6644067802424429,3,5.75
+monolingual_weight_0.75x,SND,Sindhi,0.4644137128933914,4,5.75
+monolingual_weight_1.25x,SAN,Sanskrit,0.7307942510748859,1,6.25
+monolingual_weight_1.25x,SAT,Santali,0.3583829629217324,7,6.25
+monolingual_weight_1.25x,BOD,Bodo,0.2567547141506848,8,6.25
+monolingual_weight_1.25x,DOI,Dogri,0.1396386529232277,9,6.25
+monolingual_weight_1.25x,KON,Konkani,0.4059659812122334,5,6.25
+monolingual_weight_1.25x,KAS,Kashmiri,0.38627790514855254,6,6.25
+monolingual_weight_1.25x,MAI,Maithili,0.6809458116520378,2,6.25
+monolingual_weight_1.25x,MNI,Meitei (Manipuri),0.6184934011489449,3,6.25
+monolingual_weight_1.25x,SND,Sindhi,0.5072606158619201,4,6.25
+monolingual_weight_2x,SAN,Sanskrit,0.7584728603142203,1,7.0
+monolingual_weight_2x,SAT,Santali,0.3481340815821767,7,7.0
+monolingual_weight_2x,BOD,Bodo,0.2516795156901848,8,7.0
+monolingual_weight_2x,DOI,Dogri,0.1246773686814533,9,7.0
+monolingual_weight_2x,KON,Konkani,0.3897052994025604,5,7.0
+monolingual_weight_2x,KAS,Kashmiri,0.3580051508785811,6,7.0
+monolingual_weight_2x,MAI,Maithili,0.6237115800983795,2,7.0
+monolingual_weight_2x,MNI,Meitei (Manipuri),0.5619215590515992,3,7.0
+monolingual_weight_2x,SND,Sindhi,0.5600541213052858,4,7.0
+parallel_primary_weight_0x,SAN,Sanskrit,0.6640364169781735,3,5.0
+parallel_primary_weight_0x,SAT,Santali,0.43484236679787147,5,5.0
+parallel_primary_weight_0x,BOD,Bodo,0.22809311921337744,8,5.0
+parallel_primary_weight_0x,DOI,Dogri,0.1745483161540346,9,5.0
+parallel_primary_weight_0x,KON,Konkani,0.4282378503450797,6,5.0
+parallel_primary_weight_0x,KAS,Kashmiri,0.3710631538734297,7,5.0
+parallel_primary_weight_0x,MAI,Maithili,0.7853788418985611,1,5.0
+parallel_primary_weight_0x,MNI,Meitei (Manipuri),0.7514881574894812,2,5.0
+parallel_primary_weight_0x,SND,Sindhi,0.5797685028511272,4,5.0
+parallel_primary_weight_0.75x,SAN,Sanskrit,0.7078577538940639,2,5.75
+parallel_primary_weight_0.75x,SAT,Santali,0.3781237972155404,7,5.75
+parallel_primary_weight_0.75x,BOD,Bodo,0.2520685582609875,8,5.75
+parallel_primary_weight_0.75x,DOI,Dogri,0.15178114448176921,9,5.75
+parallel_primary_weight_0.75x,KON,Konkani,0.4157565950527526,5,5.75
+parallel_primary_weight_0.75x,KAS,Kashmiri,0.3915751018230824,6,5.75
+parallel_primary_weight_0.75x,MAI,Maithili,0.7210677582654389,1,5.75
+parallel_primary_weight_0.75x,MNI,Meitei (Manipuri),0.6646228218612972,3,5.75
+parallel_primary_weight_0.75x,SND,Sindhi,0.5069556113768103,4,5.75
+parallel_primary_weight_1.25x,SAN,Sanskrit,0.7312291335825388,1,6.25
+parallel_primary_weight_1.25x,SAT,Santali,0.34787389343829717,7,6.25
+parallel_primary_weight_1.25x,BOD,Bodo,0.2648554590863796,8,6.25
+parallel_primary_weight_1.25x,DOI,Dogri,0.1396386529232277,9,6.25
+parallel_primary_weight_1.25x,KON,Konkani,0.4090999255635115,5,6.25
+parallel_primary_weight_1.25x,KAS,Kashmiri,0.4025148073962306,6,6.25
+parallel_primary_weight_1.25x,MAI,Maithili,0.6867685136611069,2,6.25
+parallel_primary_weight_1.25x,MNI,Meitei (Manipuri),0.6182946428595991,3,6.25
+parallel_primary_weight_1.25x,SND,Sindhi,0.4681220692571747,4,6.25
+parallel_primary_weight_2x,SAN,Sanskrit,0.7600260121272668,1,7.0
+parallel_primary_weight_2x,SAT,Santali,0.31060169056990816,7,7.0
+parallel_primary_weight_2x,BOD,Bodo,0.28061074760338045,8,7.0
+parallel_primary_weight_2x,DOI,Dogri,0.1246773686814533,9,7.0
+parallel_primary_weight_2x,KON,Konkani,0.4008979577999822,6,7.0
+parallel_primary_weight_2x,KAS,Kashmiri,0.4159940874774309,5,7.0
+parallel_primary_weight_2x,MAI,Maithili,0.6445069444164837,2,7.0
+parallel_primary_weight_2x,MNI,Meitei (Manipuri),0.5612117080182211,3,7.0
+parallel_primary_weight_2x,SND,Sindhi,0.42027359771690925,4,7.0
+annotated_weight_0x,SAN,Sanskrit,0.7863916908309994,1,5.0
+annotated_weight_0x,SAT,Santali,0.3458885281346646,6,5.0
+annotated_weight_0x,BOD,Bodo,0.12425820275288132,8,5.0
+annotated_weight_0x,DOI,Dogri,0.0,9,5.0
+annotated_weight_0x,KON,Konkani,0.3812151819651289,5,5.0
+annotated_weight_0x,KAS,Kashmiri,0.31717495726701356,7,5.0
+annotated_weight_0x,MAI,Maithili,0.6790813857807446,2,5.0
+annotated_weight_0x,MNI,Meitei (Manipuri),0.6203027321061458,3,5.0
+annotated_weight_0x,SND,Sindhi,0.5043072669762729,4,5.0
+annotated_weight_0.75x,SAN,Sanskrit,0.7344567264707653,1,5.75
+annotated_weight_0.75x,SAT,Santali,0.3587860062017998,7,5.75
+annotated_weight_0.75x,BOD,Bodo,0.22949575033479272,8,5.75
+annotated_weight_0.75x,DOI,Dogri,0.11383585836132692,9,5.75
+annotated_weight_0.75x,KON,Konkani,0.4055342758397198,5,5.75
+annotated_weight_0.75x,KAS,Kashmiri,0.3798602764738615,6,5.75
+annotated_weight_0.75x,MAI,Maithili,0.697959615631131,2,5.75
+annotated_weight_0.75x,MNI,Meitei (Manipuri),0.6361042511257896,3,5.75
+annotated_weight_0.75x,SND,Sindhi,0.4905509948822768,4,5.75
+annotated_weight_1.25x,SAN,Sanskrit,0.7067580788119737,2,6.25
+annotated_weight_1.25x,SAT,Santali,0.36566466117093854,7,6.25
+annotated_weight_1.25x,BOD,Bodo,0.2856224423784788,8,6.25
+annotated_weight_1.25x,DOI,Dogri,0.1745483161540346,9,6.25
+annotated_weight_1.25x,KON,Konkani,0.41850445923950164,5,6.25
+annotated_weight_1.25x,KAS,Kashmiri,0.41329244671751375,6,6.25
+annotated_weight_1.25x,MAI,Maithili,0.7080280048846703,1,6.25
+annotated_weight_1.25x,MNI,Meitei (Manipuri),0.6445317279362661,3,6.25
+annotated_weight_1.25x,SND,Sindhi,0.4832143164321455,4,6.25
+annotated_weight_2x,SAN,Sanskrit,0.672629387946677,2,7.0
+annotated_weight_2x,SAT,Santali,0.37414014675791313,7,7.0
+annotated_weight_2x,BOD,Bodo,0.3547785450751634,8,7.0
+annotated_weight_2x,DOI,Dogri,0.2493547373629066,9,7.0
+annotated_weight_2x,KON,Konkani,0.43448557807137567,6,7.0
+annotated_weight_2x,KAS,Kashmiri,0.45448565648201383,5,7.0
+annotated_weight_2x,MAI,Maithili,0.7204336987863528,1,7.0
+annotated_weight_2x,MNI,Meitei (Manipuri),0.654915583292032,3,7.0
+annotated_weight_2x,SND,Sindhi,0.4741744804846624,4,7.0
+benchmark_weight_0x,SAN,Sanskrit,0.6640364169781735,1,5.0
+benchmark_weight_0x,SAT,Santali,0.3348423667978715,7,5.0
+benchmark_weight_0x,BOD,Bodo,0.31047408292905504,8,5.0
+benchmark_weight_0x,DOI,Dogri,0.1745483161540346,9,5.0
+benchmark_weight_0x,KON,Konkani,0.3947474956325274,6,5.0
+benchmark_weight_0x,KAS,Kashmiri,0.47672743817091645,5,5.0
+benchmark_weight_0x,MAI,Maithili,0.6438442820408192,2,5.0
+benchmark_weight_0x,MNI,Meitei (Manipuri),0.5685922743574954,3,5.0
+benchmark_weight_0x,SND,Sindhi,0.48407576982740014,4,5.0
+benchmark_weight_0.75x,SAN,Sanskrit,0.7078577538940639,1,5.75
+benchmark_weight_0.75x,SAT,Santali,0.3563846667807578,7,5.75
+benchmark_weight_0.75x,BOD,Bodo,0.2699774634165696,8,5.75
+benchmark_weight_0.75x,DOI,Dogri,0.15178114448176921,9,5.75
+benchmark_weight_0.75x,KON,Konkani,0.40847608315871947,6,5.75
+benchmark_weight_0.75x,KAS,Kashmiri,0.41454559840949257,5,5.75
+benchmark_weight_0.75x,MAI,Maithili,0.6902993756876689,2,5.75
+benchmark_weight_0.75x,MNI,Meitei (Manipuri),0.6248628472673873,3,5.75
+benchmark_weight_0.75x,SND,Sindhi,0.48615284332817404,4,5.75
+benchmark_weight_1.25x,SAN,Sanskrit,0.7312291335825388,1,6.25
+benchmark_weight_1.25x,SAT,Santali,0.3678738934382972,7,6.25
+benchmark_weight_1.25x,BOD,Bodo,0.24837926634324403,8,6.25
+benchmark_weight_1.25x,DOI,Dogri,0.1396386529232277,9,6.25
+benchmark_weight_1.25x,KON,Konkani,0.4157979965060219,5,6.25
+benchmark_weight_1.25x,KAS,Kashmiri,0.3813819505367331,6,6.25
+benchmark_weight_1.25x,MAI,Maithili,0.7150754256326554,2,6.25
+benchmark_weight_1.25x,MNI,Meitei (Manipuri),0.6548738194859962,3,6.25
+benchmark_weight_1.25x,SND,Sindhi,0.4872606158619201,4,6.25
+benchmark_weight_2x,SAN,Sanskrit,0.7600260121272668,1,7.0
+benchmark_weight_2x,SAT,Santali,0.3820302619984796,6,7.0
+benchmark_weight_2x,BOD,Bodo,0.22176720209218218,8,7.0
+benchmark_weight_2x,DOI,Dogri,0.1246773686814533,9,7.0
+benchmark_weight_2x,KON,Konkani,0.42481963973751957,5,7.0
+benchmark_weight_2x,KAS,Kashmiri,0.3405195986935117,7,7.0
+benchmark_weight_2x,MAI,Maithili,0.7456030586005851,2,7.0
+benchmark_weight_2x,MNI,Meitei (Manipuri),0.6918516245410681,3,7.0
+benchmark_weight_2x,SND,Sindhi,0.48862554987671436,4,7.0
+model_weight_0x,SAN,Sanskrit,0.8640364169781736,1,5.0
+model_weight_0x,SAT,Santali,0.43484236679787147,7,5.0
+model_weight_0x,BOD,Bodo,0.31047408292905504,8,5.0
+model_weight_0x,DOI,Dogri,0.1745483161540346,9,5.0
+model_weight_0x,KON,Konkani,0.4947474956325274,5,5.0
+model_weight_0x,KAS,Kashmiri,0.47672743817091645,6,5.0
+model_weight_0x,MAI,Maithili,0.6438442820408192,2,5.0
+model_weight_0x,MNI,Meitei (Manipuri),0.5685922743574954,4,5.0
+model_weight_0x,SND,Sindhi,0.5840757698274002,3,5.0
+model_weight_0.75x,SAN,Sanskrit,0.7513360147636291,1,5.75
+model_weight_0.75x,SAT,Santali,0.3781237972155404,7,5.75
+model_weight_0.75x,BOD,Bodo,0.2699774634165696,8,5.75
+model_weight_0.75x,DOI,Dogri,0.15178114448176921,9,5.75
+model_weight_0.75x,KON,Konkani,0.43021521359350207,5,5.75
+model_weight_0.75x,KAS,Kashmiri,0.41454559840949257,6,5.75
+model_weight_0.75x,MAI,Maithili,0.6902993756876689,2,5.75
+model_weight_0.75x,MNI,Meitei (Manipuri),0.6248628472673873,3,5.75
+model_weight_0.75x,SND,Sindhi,0.5078919737629566,4,5.75
+model_weight_1.25x,SAN,Sanskrit,0.6912291335825388,2,6.25
+model_weight_1.25x,SAT,Santali,0.34787389343829717,7,6.25
+model_weight_1.25x,BOD,Bodo,0.24837926634324403,8,6.25
+model_weight_1.25x,DOI,Dogri,0.1396386529232277,9,6.25
+model_weight_1.25x,KON,Konkani,0.3957979965060219,5,6.25
+model_weight_1.25x,KAS,Kashmiri,0.3813819505367331,6,6.25
+model_weight_1.25x,MAI,Maithili,0.7150754256326554,1,6.25
+model_weight_1.25x,MNI,Meitei (Manipuri),0.6548738194859962,3,6.25
+model_weight_1.25x,SND,Sindhi,0.4672606158619201,4,6.25
+model_weight_2x,SAN,Sanskrit,0.6171688692701239,3,7.0
+model_weight_2x,SAT,Santali,0.31060169056990816,7,7.0
+model_weight_2x,BOD,Bodo,0.22176720209218218,8,7.0
+model_weight_2x,DOI,Dogri,0.1246773686814533,9,7.0
+model_weight_2x,KON,Konkani,0.3533910683089481,5,7.0
+model_weight_2x,KAS,Kashmiri,0.3405195986935117,6,7.0
+model_weight_2x,MAI,Maithili,0.7456030586005851,1,7.0
+model_weight_2x,MNI,Meitei (Manipuri),0.6918516245410681,2,7.0
+model_weight_2x,SND,Sindhi,0.41719697844814296,4,7.0

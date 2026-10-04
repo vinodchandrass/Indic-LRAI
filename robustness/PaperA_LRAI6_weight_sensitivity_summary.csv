@@ -1,0 +1,10 @@
+﻿code,language,base_rank,min_rank,max_rank,max_abs_rank_change
+SAN,Sanskrit,1,1,3,2
+SAT,Santali,7,5,8,2
+BOD,Bodo,8,6,8,2
+DOI,Dogri,9,9,9,0
+KON,Konkani,5,5,6,1
+KAS,Kashmiri,6,4,7,2
+MAI,Maithili,2,1,2,1
+MNI,Meitei (Manipuri),3,2,4,1
+SND,Sindhi,4,3,6,2

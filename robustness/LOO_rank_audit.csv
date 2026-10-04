@@ -1,0 +1,7 @@
+﻿omitted_component,spearman,max_rank_shift,passes_rho_0_85
+digital,0.95,2.0,True
+monolingual,0.8833333333333333,2.0,True
+parallel_primary,0.9,2.0,True
+annotated,0.9833333333333333,1.0,True
+benchmark,0.9833333333333333,1.0,True
+model,0.9833333333333333,1.0,True

@@ -1,0 +1,22 @@
+.env
+*.env
+*api_key*
+*secret*
+*token*
+__pycache__/
+*.py[cod]
+*_BACKUP*
+*_WRONG_INPUT*
+*DRYRUN*
+*Synthetic*
+*DO_NOT_ANALYZE*
+*PRIVATE*
+*RESTRICTED*
+*.tmp
+*.bak
+~$*
+Thumbs.db
+.DS_Store
+
+# Local release-build report
+BUILD_REPORT.txt
